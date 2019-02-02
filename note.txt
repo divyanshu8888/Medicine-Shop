@@ -1,0 +1,14 @@
+Project deals with the medical software built in c++.
+It has 3 tabs.
+
+1 Admin
+Performs admin functions(i.e Entering the details about the product i.e price, discounts if any, quantity available in shop)
+
+2.Customer.
+Helps owner of the shop to make the invoice based on the customer purchase.
+
+3.Exit
+To exit the software 
+
+
+
